@@ -1,0 +1,24 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE and system files
+.DS_Store
+.idea/
+.vscode/
+
+# Dataset files
+data/raw/
+data/processed/
+
+# Spark generated files
+*.crc

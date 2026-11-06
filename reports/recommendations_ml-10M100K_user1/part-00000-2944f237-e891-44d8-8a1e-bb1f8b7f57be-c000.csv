@@ -1,0 +1,11 @@
+userId,movieId,title,genres,predicted_rating
+1,65133,Blackadder Back & Forth (1999),Comedy,6.453927
+1,4309,Petits Freres (Petits FrÃ¨res) (1999),Drama,6.3250623
+1,55620,For the Bible Tells Me So (2007),Documentary,6.298775
+1,8824,If a Man Answers (1962),Comedy,6.157077
+1,61037,Silent Light (Stellet licht) (2007),Drama,6.027589
+1,6691,Dust (2001),Drama|Western,6.0104504
+1,115,"Happiness Is in the Field (Bonheur est dans le prÃ©, Le) (1995)",Comedy,5.8481164
+1,32444,Carmen (1983),Drama|Musical|Romance,5.846817
+1,5889,"Cruel Romance, A (Zhestokij Romans) (1984)",Drama|Romance,5.8314843
+1,31123,Ruby & Quentin (Tais-toi!) (2003),Comedy|Crime,5.8305984

@@ -1,0 +1,14 @@
+{
+    "dataset": "ml-1m",
+    "training_rows": 800504,
+    "testing_rows": 199705,
+    "evaluated_predictions": 199666,
+    "als_rank": 20,
+    "max_iterations": 10,
+    "regularization": 0.1,
+    "rmse": 0.8703227524695503,
+    "mae": 0.6971792782555473,
+    "training_seconds": 11.970570800011046,
+    "recommendation_user_id": 1,
+    "recommendation_count": 10
+}
